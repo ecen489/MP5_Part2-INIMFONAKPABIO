@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MP5_Part2</string>
+    <string-array name="topics">
+        <item>Soccer Trivia</item>
+        <item>Math</item>
+        <item>History</item>
+    </string-array>
+
+    <string-array name="Soccer_Questions">
+        <item>What is the record for the most goals scored in a calendar year?</item>
+        <item>Which country has won the most world cups in Soccer history?</item>
+    </string-array>
+    <string-array name="Soccer_Answers">
+        <item>93</item>
+        <item>Brazil</item>
+    </string-array>
+
+    <string-array name="Math_Questions">
+        <item>At a party, everyone shook hands with everybody else. If there were 66 handshakes, how many people were at the party?</item>
+        <item>If it takes 120 people to play a 40-minute song, how many minutes would it take 60 people to play the same song?</item>
+    </string-array>
+    <string-array name="Math_Answers">
+        <item>12</item>
+        <item>40</item>
+    </string-array>
+
+    <string-array name="History_Questions">
+        <item>In what year did the American civil war begin?</item>
+        <item>What was the first city to reach a population of one million?</item>
+    </string-array>
+    <string-array name="History_Answers">
+        <item>1861</item>
+        <item>Rome</item>
+    </string-array>
+
+</resources>
